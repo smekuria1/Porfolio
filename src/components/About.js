@@ -10,8 +10,8 @@ function About() {
             CyberSecurity.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I am Junior Computer Science major with a concentration on
-            CyberSecurity. I taught myself the basics of Javascript,Node and
+            I am Junior Computer Science major with a concentration on Software
+            Engineering. I taught myself the basics of Javascript,Node and
             HTML/CSS. I also have some experience working with React.js(this
             page for example :). I am eager to learn more about Backend systems
             and improve my FrontEnd skill. Thank You.
