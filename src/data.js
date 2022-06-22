@@ -13,7 +13,7 @@ export const projects = [
     description:
       'After making this website, I wanted to make a new and improved portfolio \n -More features \n Uses a Sanity backend as a CMS \n Uses motion-framer for animations \n Uses SASS instead of CSS for styling',
     image: 'portfolio.png',
-    link: 'https://github.com/smekuria1/responsive_personal_portfolio',
+    link: 'https://smekuria2022.netlify.app/',
   },
 ];
 
